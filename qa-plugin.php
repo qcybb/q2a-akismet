@@ -15,8 +15,8 @@
 	Plugin Name: Akismet Spam Filter
 	Plugin URI: http://qcybb.com/question2answer-akismet-plugin/
 	Plugin Description: Uses Akismet to check questions, answers and comments for spam.
-	Plugin Version: 2.0 Beta 3
-	Plugin Date: 2013-01-29
+	Plugin Version: 2.0
+	Plugin Date: 2017-05-04
 	Plugin Author: Dave Hannon
 	Plugin Author URI: http://www.qcybb.com
 	Plugin License: GPLv2
